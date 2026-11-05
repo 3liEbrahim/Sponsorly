@@ -1,0 +1,9 @@
+{
+  "name": "sponsorly",
+  "version": "1.0.0",
+  "description": "Sponsorly prototype: student grants, small business micro-loans and equity, sponsor dashboards.",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}
